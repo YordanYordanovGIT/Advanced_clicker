@@ -1,0 +1,40 @@
+C:\Users\Coding\source\repos\Advanced clicker\Advanced clicker\bin\Debug\Advanced clicker.exe.config
+C:\Users\Coding\source\repos\Advanced clicker\Advanced clicker\bin\Debug\Advanced clicker.exe
+C:\Users\Coding\source\repos\Advanced clicker\Advanced clicker\bin\Debug\Advanced clicker.pdb
+C:\Users\Coding\source\repos\Advanced clicker\Advanced clicker\obj\Debug\Advanced clicker.csprojAssemblyReference.cache
+C:\Users\Coding\source\repos\Advanced clicker\Advanced clicker\obj\Debug\Advanced_clicker.Form1.resources
+C:\Users\Coding\source\repos\Advanced clicker\Advanced clicker\obj\Debug\Advanced_clicker.Properties.Resources.resources
+C:\Users\Coding\source\repos\Advanced clicker\Advanced clicker\obj\Debug\Advanced clicker.csproj.GenerateResource.cache
+C:\Users\Coding\source\repos\Advanced clicker\Advanced clicker\obj\Debug\Advanced clicker.csproj.CoreCompileInputs.cache
+C:\Users\Coding\source\repos\Advanced clicker\Advanced clicker\obj\Debug\Advanced clicker.exe
+C:\Users\Coding\source\repos\Advanced clicker\Advanced clicker\obj\Debug\Advanced clicker.pdb
+C:\Users\Coding\source\repos\Advanced clicker\Advanced clicker 1.1\Advanced clicker\Advanced clicker\bin\Debug\Advanced clicker.exe.config
+C:\Users\Coding\source\repos\Advanced clicker\Advanced clicker 1.1\Advanced clicker\Advanced clicker\bin\Debug\Advanced clicker.exe
+C:\Users\Coding\source\repos\Advanced clicker\Advanced clicker 1.1\Advanced clicker\Advanced clicker\bin\Debug\Advanced clicker.pdb
+C:\Users\Coding\source\repos\Advanced clicker\Advanced clicker 1.1\Advanced clicker\Advanced clicker\obj\Debug\Advanced clicker.csprojAssemblyReference.cache
+C:\Users\Coding\source\repos\Advanced clicker\Advanced clicker 1.1\Advanced clicker\Advanced clicker\obj\Debug\Advanced_clicker.Form1.resources
+C:\Users\Coding\source\repos\Advanced clicker\Advanced clicker 1.1\Advanced clicker\Advanced clicker\obj\Debug\Advanced_clicker.Properties.Resources.resources
+C:\Users\Coding\source\repos\Advanced clicker\Advanced clicker 1.1\Advanced clicker\Advanced clicker\obj\Debug\Advanced clicker.csproj.GenerateResource.cache
+C:\Users\Coding\source\repos\Advanced clicker\Advanced clicker 1.1\Advanced clicker\Advanced clicker\obj\Debug\Advanced clicker.csproj.CoreCompileInputs.cache
+C:\Users\Coding\source\repos\Advanced clicker\Advanced clicker 1.1\Advanced clicker\Advanced clicker\obj\Debug\Advanced clicker.exe
+C:\Users\Coding\source\repos\Advanced clicker\Advanced clicker 1.1\Advanced clicker\Advanced clicker\obj\Debug\Advanced clicker.pdb
+F:\Files\Programming\C#\Home\Advanced clicker\Advanced clicker 1.1\Advanced clicker\Advanced clicker\bin\Debug\Advanced clicker.exe.config
+F:\Files\Programming\C#\Home\Advanced clicker\Advanced clicker 1.1\Advanced clicker\Advanced clicker\bin\Debug\Advanced clicker.exe
+F:\Files\Programming\C#\Home\Advanced clicker\Advanced clicker 1.1\Advanced clicker\Advanced clicker\bin\Debug\Advanced clicker.pdb
+F:\Files\Programming\C#\Home\Advanced clicker\Advanced clicker 1.1\Advanced clicker\Advanced clicker\obj\Debug\Advanced clicker.csprojAssemblyReference.cache
+F:\Files\Programming\C#\Home\Advanced clicker\Advanced clicker 1.1\Advanced clicker\Advanced clicker\obj\Debug\Advanced_clicker.Form1.resources
+F:\Files\Programming\C#\Home\Advanced clicker\Advanced clicker 1.1\Advanced clicker\Advanced clicker\obj\Debug\Advanced_clicker.Properties.Resources.resources
+F:\Files\Programming\C#\Home\Advanced clicker\Advanced clicker 1.1\Advanced clicker\Advanced clicker\obj\Debug\Advanced clicker.csproj.GenerateResource.cache
+F:\Files\Programming\C#\Home\Advanced clicker\Advanced clicker 1.1\Advanced clicker\Advanced clicker\obj\Debug\Advanced clicker.csproj.CoreCompileInputs.cache
+F:\Files\Programming\C#\Home\Advanced clicker\Advanced clicker 1.1\Advanced clicker\Advanced clicker\obj\Debug\Advanced clicker.exe
+F:\Files\Programming\C#\Home\Advanced clicker\Advanced clicker 1.1\Advanced clicker\Advanced clicker\obj\Debug\Advanced clicker.pdb
+E:\DAN\Programming\Projects\Real_working\Advanced_clicker\Advanced clicker 1.1\Advanced clicker\Advanced clicker\bin\Debug\Advanced clicker.exe.config
+E:\DAN\Programming\Projects\Real_working\Advanced_clicker\Advanced clicker 1.1\Advanced clicker\Advanced clicker\bin\Debug\Advanced clicker.exe
+E:\DAN\Programming\Projects\Real_working\Advanced_clicker\Advanced clicker 1.1\Advanced clicker\Advanced clicker\bin\Debug\Advanced clicker.pdb
+E:\DAN\Programming\Projects\Real_working\Advanced_clicker\Advanced clicker 1.1\Advanced clicker\Advanced clicker\obj\Debug\Advanced clicker.csprojAssemblyReference.cache
+E:\DAN\Programming\Projects\Real_working\Advanced_clicker\Advanced clicker 1.1\Advanced clicker\Advanced clicker\obj\Debug\Advanced_clicker.Form1.resources
+E:\DAN\Programming\Projects\Real_working\Advanced_clicker\Advanced clicker 1.1\Advanced clicker\Advanced clicker\obj\Debug\Advanced_clicker.Properties.Resources.resources
+E:\DAN\Programming\Projects\Real_working\Advanced_clicker\Advanced clicker 1.1\Advanced clicker\Advanced clicker\obj\Debug\Advanced clicker.csproj.GenerateResource.cache
+E:\DAN\Programming\Projects\Real_working\Advanced_clicker\Advanced clicker 1.1\Advanced clicker\Advanced clicker\obj\Debug\Advanced clicker.csproj.CoreCompileInputs.cache
+E:\DAN\Programming\Projects\Real_working\Advanced_clicker\Advanced clicker 1.1\Advanced clicker\Advanced clicker\obj\Debug\Advanced clicker.exe
+E:\DAN\Programming\Projects\Real_working\Advanced_clicker\Advanced clicker 1.1\Advanced clicker\Advanced clicker\obj\Debug\Advanced clicker.pdb
