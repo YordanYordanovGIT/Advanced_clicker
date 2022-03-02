@@ -7,3 +7,5 @@ A friend of mine used it to renew a free Minecraft server every hour by autoclic
 Version 1.2
 
 The program is written in C# with .NET and Windows Forms technologies being used. If you want to edit and compile the code you only need VS 2017 and up with .NET desktop development pack installed.
+
+[Get it on Sourceforge](https://sourceforge.net/projects/advanced-clicker/)
